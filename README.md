@@ -17,7 +17,7 @@ https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design
 <p align="center">
 	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design/mobile-design.jpg" width= "300px"/>
 		<p align="center">
-			Given Design
+			Challenge
 		</p>
 </p>	
   	</td>
