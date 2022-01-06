@@ -5,8 +5,31 @@
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
+<!--
 ## My Solution
 (screenshot)
+
+https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design/mobile-design.jpg
+-->
+
+<table align= "center">
+	<td style= "padding: 20px;">   	
+<p align="center">
+	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design/mobile-design.jpg" width= "300px"/>
+		<p align="center">
+			Given Design
+		</p>
+</p>	
+  	</td>
+  	<td>  	
+<p align="center">
+	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design/mobile-design.jpg" width= "300px"/>
+</p>	
+	<p align="center">
+			My Solution
+		</p>
+  	</td>
+</table>  
 
 ### Built with
 
@@ -16,7 +39,7 @@
 - CSS Grid
 - Mobile-first workflow
 
-## Author
+## Author (Rashmi Wijesekara 🙂)
 
 - Frontend Mentor	- [@Rashmi-Wijesekara](https://www.frontendmentor.io/profile/Rashmi-Wijesekara)
 - Twitter			- [@Rashmi_15_](https://twitter.com/Rashmi_15_)
