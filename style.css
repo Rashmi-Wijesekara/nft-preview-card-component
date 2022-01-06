@@ -1,0 +1,98 @@
+@import url(https://fonts.google.com/specimen/Outfit);
+
+* {
+    background: hsl(217, 54%, 11%);
+    font-family: Outfit, sans-serif;
+    color: hsl(0, 0%, 100%);
+}
+
+.main-container {
+    background: hsl(216, 50%, 16%);
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 5;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    margin: 20px auto;
+    border-radius: 15px;
+    margin-bottom: 40px;
+}
+
+/* all the elements inside the main container will get the same background color */
+.main-container > * , .creation-section > *, .text > *{
+    background: hsl(216, 50%, 16%);
+}
+
+.main-img {
+    border-radius: 10px;
+    grid-column: 1/3;
+    margin: 25px auto;
+}
+
+.topic {
+    font-size: 20px;
+    font-weight: 600;
+    grid-row: 2/3;
+    grid-column: 1/3;
+    margin: 0 0 20px 25px;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    grid-row: 3/4;
+    grid-column: 1/3;
+    margin: 0 0 20px 25px;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-weight: 400;
+    grid-row: 4/5;
+    grid-column: 1/2;
+    margin-left: 25px;
+}
+
+.days-left {
+    font-size: 16px;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+    grid-column: 2/3;
+    grid-row: 4/5;
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+.creation-section {
+    border-top: 0.5px solid hsl(215, 32%, 27%);
+    grid-row: 6/7;
+    grid-column: 1/3;
+    margin: 20px;
+
+     /* 
+        text will be at the bottom of the profile picture 
+        so, we need to align that vertically
+    */
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.profile {
+    width: 30px;
+    border-radius: 50%;
+    border: 2px solid;
+}
+
+.text {
+    margin-left: 15px;
+}
+.text1 {
+    color: hsl(215, 51%, 70%);
+}
+
+.attribution {
+    display: flexbox;
+}
