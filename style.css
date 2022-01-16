@@ -20,7 +20,9 @@
 }
 
 /* all the elements inside the main container will get the same background color */
-.main-container > * , .creation-section > *, .text > *{
+.main-container > * , .creation-section > *,
+ .text > *, .eth-row > *, .days-row > *, 
+.eth-img, .days-img{
     background: hsl(216, 50%, 16%);
 }
 
@@ -47,22 +49,32 @@
     margin: 0 0 20px 25px;
 }
 
+.eth-row {
+    grid-row: 4/5;
+    grid-column: 1/2;
+    display:flex;
+    justify-content: center;
+    width: fit-content;
+    margin-left: 25px;
+}
 .eth {
     color: hsl(178, 100%, 50%);
     font-weight: 400;
-    grid-row: 4/5;
-    grid-column: 1/2;
-    margin-left: 25px;
+    margin-left: 5px;
 }
 
+.days-row {
+    grid-column: 2/3;
+    grid-row: 4/5;
+    display:flex;
+    justify-content: right;
+    margin-right: 20px;
+}
 .days-left {
     font-size: 16px;
     font-weight: 300;
     color: hsl(215, 51%, 70%);
-    grid-column: 2/3;
-    grid-row: 4/5;
-    margin-left: auto;
-    margin-right: 25px;
+    margin-left: 5px;
 }
 
 .creation-section {
