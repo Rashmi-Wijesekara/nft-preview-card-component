@@ -20,7 +20,7 @@ https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design
   	</td>
   	<td>  	
 <p align="center">
-	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/images/version1.jpg" width= "300px"/>
+	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/images/final.png" width= "300px"/>
 </p>	
 	<p align="center">
 			My Solution
