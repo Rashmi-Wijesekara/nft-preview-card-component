@@ -1,8 +1,8 @@
-@import url(https://fonts.google.com/specimen/Outfit);
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
 
 * {
     background: hsl(217, 54%, 11%);
-    font-family: Outfit, sans-serif;
+    font-family: "Outfit", sans-serif;
     color: hsl(0, 0%, 100%);
 }
 
