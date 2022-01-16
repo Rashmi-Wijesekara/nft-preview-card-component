@@ -1,9 +1,6 @@
 # Frontend Mentor - NFT preview card component
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[🔗 Live Site URL](https://rashmi-wijesekara.github.io/nft-preview-card-component/)
 
 <!--
 ## My Solution
@@ -23,7 +20,7 @@ https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design
   	</td>
   	<td>  	
 <p align="center">
-	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design/mobile-design.jpg" width= "300px"/>
+	<img src="https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/images/version1.jpg" width= "300px"/>
 </p>	
 	<p align="center">
 			My Solution
@@ -37,7 +34,6 @@ https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ## Author (Rashmi Wijesekara 🙂)
 
