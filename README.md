@@ -38,5 +38,5 @@ https://github.com/Rashmi-Wijesekara/nft-preview-card-component/blob/main/design
 ## Author (Rashmi Wijesekara 🙂)
 
 - Frontend Mentor	- [@Rashmi-Wijesekara](https://www.frontendmentor.io/profile/Rashmi-Wijesekara)
-- Twitter			- [@Rashmi_15_](https://twitter.com/Rashmi_15_)
+- Twitter			- [@Rashmi_W_](https://twitter.com/Rashmi_W_)
 - Linkedin       	- [Rashmi Wijesekara](https://www.linkedin.com/in/rashmi-wijesekara-a1a1881b3/)		
